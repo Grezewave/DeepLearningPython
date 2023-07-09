@@ -1,0 +1,1 @@
+{"activation": "softplus", "batch_size": 10, "dropout": 0.2, "epochs": 1500, "kernel_initializer": "random_normal", "layers_units": [4], "loss": "sparse_categorical_crossentropy", "optimizer": "adam"}
